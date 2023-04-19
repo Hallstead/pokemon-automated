@@ -1,2 +1,2 @@
 # pokemon-automated
-Personal pprojects to automate Pokemon games
+Personal projects to automate Pokemon games
